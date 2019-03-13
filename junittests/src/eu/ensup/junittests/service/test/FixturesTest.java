@@ -41,6 +41,7 @@ public class FixturesTest {
 
 	  private void println(String string) {
 	    System.out.println(string);
+	    //tests
 	  }
 
 	  @Before
